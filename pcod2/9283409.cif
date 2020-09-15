@@ -1,0 +1,130 @@
+data_PCOD9283409
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and Ramdas Pophale) SiO2 
+ PCOD9283409
+Probable space group: C 2/C
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 32
+_cell_length_a 16.591254
+_cell_length_b 16.660668
+_cell_length_c 5.506109
+_cell_angle_alpha 90.000000
+_cell_angle_beta 124.448907
+_cell_angle_gamma 90.000000
+_cell_volume 1255.093432
+_symmetry_space_group_name_H-M "C 2/C"
+_symmetry_group_IT_number 15
+_symmetry_cell_setting 'monoclinic'
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x,y,1/2-z
+-x,-y,-z
+x,-y,1/2+z
+1/2+x,1/2+y,z
+1/2-x,1/2+y,1/2-z
+1/2-x,1/2-y,-z
+1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si Si1 0.136436 0.279091 0.828276
+Si Si2 0.118029 0.034911 0.449138
+Si Si3 0.141546 0.785743 0.838052
+Si Si4 0.888160 0.531987 0.269073
+O O1 0.095076 0.249911 0.501956
+O O2 0.121466 0.374663 0.813086
+O O3 0.250000 0.250000 0.000000
+O O4 0.096682 0.239035 0.005160
+O O5 0.147904 0.120184 0.392278
+O O6 0.000000 0.032099 0.250000
+O O7 0.148239 0.026309 0.783943
+O O8 0.250000 0.750000 0.000000
+O O9 0.845637 0.515860 0.465005
+O O10 0.000000 0.500000 0.500000
+#
+# Coordination Sequence:
+#
+# PCOD9283409 Si02
+#       4
+#     8   8   8   8
+#     4  10  21  40  61  88 130 163 214 260 318 383
+#     4  10  21  40  64  91 123 160 211 262 316 371
+#     4  10  21  40  61  93 126 164 211 260 320 385
+#     4  10  21  40  62  88 126 168 210 261 315 385
+#
+# _framework density 25.496110000000002
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    2.000    0.000    3.000    0.000    0.000 
+#   13.500   30.000    0.000    0.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Total GULP energy -89488.166244 kJ/mol
+# GULP energy per Si atom -5593.010390 kJ/mol
+# Density = 2.543808 g / cm^3
+# Si number density = 25.496110 Si / 1000 Ang^3
+#
+#
+#
+# Elastic Constant Matrix: (Units=GPa)
+#
+#
+# Indices 1 2 3 4 5 6 
+#
+# 1 118.8156 26.7503 76.3145 0.0000 -13.1411 0.0000
+# 2 26.7503 171.0346 44.0562 0.0000 -32.6736 0.0000
+# 3 76.3145 44.0562 194.3401 0.0000 -60.1622 0.0000
+# 4 0.0000 0.0000 0.0000 50.9499 0.0000 -14.7492
+# 5 -13.1411 -32.6736 -60.1622 0.0000 69.3328 0.0000
+# 6 0.0000 0.0000 0.0000 -14.7492 0.0000 53.4342
+#
+#
+#
+# Elastic Compliance Matrix: (Units=1/GPa)
+#
+#
+# Indices 1 2 3 4 5 6 
+#
+# 1 0.011694 -0.001017 -0.005228 0.000000 -0.002799 0.000000
+# 2 -0.001017 0.006586 -0.000263 0.000000 0.002683 0.000000
+# 3 -0.005228 -0.000263 0.009452 0.000000 0.007087 0.000000
+# 4 0.000000 0.000000 0.000000 0.021332 0.000000 0.005888
+# 5 -0.002799 0.002683 0.007087 0.000000 0.021306 0.000000
+# 6 0.000000 0.000000 0.000000 0.005888 0.000000 0.020340
+#
+#
+# Mechanical properties :
+#
+#
+# Convention : Reuss Voigt Hill
+#
+# Bulk Modulus (GPa) = 67.95570 86.49247 77.22408
+# Shear Modulus (GPa) = 46.02716 57.21466 51.62091
+#
+# Velocity S-wave (km/s) = 4.25345 4.74228 4.50450
+# Velocity P-wave (km/s) = 7.12977 7.99894 7.57683
+#
+# Compressibility (1/GPa) = 0.01471547
+#
+# Stress axis : x y z
+#
+# Youngs Moduli (GPa) = 85.51641 151.83471 105.79569
+#
+# Poissons Ratio (x) = 0.15442 0.55310
+# Poissons Ratio (y) = 0.08697 0.02785
+# Poissons Ratio (z) = 0.44708 0.03996
+#
+# Static dielectric constant tensor:
+#      x y z
+#    x 2.754570 0.000000 0.348660 
+#    y 0.000000 1.964890 0.000000 
+#    z 0.348660 0.000000 2.248450 
+# 
+# From -- ./inp_files/9540.got.cif
+#   From: 2010.05.17/outbox.cif.g08.bks.cpg/sg15_5_cif.got.tgz:9540.got - 2010.06.03 18:47:42.
