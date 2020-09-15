@@ -1,0 +1,72 @@
+data_PKWN-MEI
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-MEI
+Probable space group: P 63/M
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 34
+_cell_length_a                  13.1140
+_cell_length_b                  13.1140
+_cell_length_c                  15.5630
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 2317.897931
+_symmetry_space_group_name_H-M "P 63/M"
+_space_group_IT_number 176
+_symmetry_cell_setting hexagonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x-y,x,1/2+z
+-y,x-y,z
+-x,-y,1/2+z
+-x+y,-x,z
+y,-x+y,1/2+z
+-x,-y,-z
+-x+y,-x,1/2-z
+y,-x+y,-z
+x,y,1/2-z
+x-y,x,-z
+-y,x-y,1/2-z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.8030    0.2269    0.5039
+O       O2      0.6496    0.2101    0.3881
+O       O3      0.6461    0.0192    0.4444
+O       O4      0.5800    0.1358    0.5458
+O       O5      0.4498    0.1563    0.6655
+O       O6      0.5645    0.3563    0.7500
+O       O7      0.6667    0.3333    0.2500
+Si       Si1      0.6696    0.1479    0.4705
+Si       Si2      0.4519    0.1174    0.5677
+Si       Si3      0.5265    0.2189    0.7500
+Si       Si4      0.6667    0.3333    0.3533
+#
+# Coordination Sequence:
+#
+# PKWN-MEI Si02
+#       4
+#    12  12   6   4
+#     4   9  18  30  46  63  94 125 152 183 232 277
+#     4  10  17  30  46  67  91 123 153 190 226 274
+#     4  10  16  26  46  66  94 114 158 194 222 262
+#     4   9  18  30  39  67  98 121 147 189 234 279
+#
+# _framework density 14.6684629838
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.353    2.118    3.529    0.706    2.471    0.000 
+#    0.000    0.000    0.000    0.706    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12399.157400.
+# Energy per Si from BKS FF is -5568.739100
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/MEI.cif

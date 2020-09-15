@@ -1,0 +1,71 @@
+data_PKWN-ATV
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-ATV
+Probable space group: C M M A
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 24
+_cell_length_a                   8.5790
+_cell_length_b                  15.3110
+_cell_length_c                   9.6610
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma               90.0000
+_cell_volume 1269.002000
+_symmetry_space_group_name_H-M "C M M A"
+_space_group_IT_number 67
+_symmetry_cell_setting orthorhombic
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x,1/2-y,z
+x,-y,-z
+-x,1/2+y,-z
+-x,-y,-z
+x,1/2+y,-z
+-x,y,z
+x,1/2-y,z
+1/2+x,1/2+y,z
+1/2-x,-y,z
+1/2+x,1/2-y,-z
+1/2-x,y,-z
+1/2-x,1/2-y,-z
+1/2+x,y,-z
+1/2-x,1/2+y,z
+1/2+x,-y,z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.2500    0.1251    0.5000
+O       O2      0.2498    0.1642    0.2351
+O       O3      0.2500    0.0000    0.3133
+O       O4      0.0000    0.0963    0.3498
+O       O5      0.5000    0.2500    0.1572
+O       O6      0.2500    0.2500    0.0000
+Si       Si1      0.1874    0.0963    0.3497
+Si       Si2      0.3126    0.2500    0.1568
+#
+# Coordination Sequence:
+#
+# PKWN-ATV Si02
+#       2
+#    16   8
+#     4  11  22  40  64  92 121 157 200 248 297 351
+#     4  12  25  42  61  88 122 160 200 246 299 358
+#
+# _framework density 18.9124997497
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    0.667    0.000   12.000    0.000    1.333 
+#    0.000    6.667    0.000    0.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12406.643600.
+# Energy per Si from BKS FF is -5599.010300
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/ATV.cif

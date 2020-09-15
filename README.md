@@ -9,3 +9,4 @@ Originally hosted on http://www.mwdeem.rice.edu/files/ and http://www.hypothetic
 - I have mirrored the original database files on Zenodo: [DOI:10.5281/zenodo.4030232](https://doi.org/10.5281/zenodo.4030232), exactly as downloaded on 14 September 2013: `pcod_new.zip` and `pcod2_new.zip`
 - The [`pcod`](pcod/) directory contains all CIF files from `pcod_new.zip`
 - The [`pcod2`](pcod2/) directory contains all CIF files from `pcod2_new.zip`
+- The [`Deem_known_zeolites`](Deem_known_zeolites/) directory contains 181 structures of known zeolites, optimised under the same conditions.

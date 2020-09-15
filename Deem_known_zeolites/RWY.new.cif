@@ -1,0 +1,98 @@
+data_PKWN-RWY
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-RWY
+Probable space group: I -4 3 M 
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 48
+_cell_length_a                  17.7620
+_cell_length_b                  17.7620
+_cell_length_c                  17.7620
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma               90.0000
+_cell_volume 5603.709295
+_symmetry_space_group_name_H-M "I -4 3 M "
+_space_group_IT_number 217
+_symmetry_cell_setting cubic
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+y,-x,-z
+-x,-y,z
+-y,x,-z
+-x,z,-y
+x,-y,-z
+-x,-z,y
+-z,-y,x
+-x,y,-z
+z,-y,-x
+z,x,y
+y,z,x
+-y,-z,x
+z,-x,-y
+-y,z,-x
+-z,-x,y
+-z,x,-y
+y,-z,-x
+-y,-x,z
+y,x,z
+x,-z,-y
+x,z,y
+-z,y,-x
+z,y,x
+1/2+x,1/2+y,1/2+z
+1/2+y,1/2-x,1/2-z
+1/2-x,1/2-y,1/2+z
+1/2-y,1/2+x,1/2-z
+1/2-x,1/2+z,1/2-y
+1/2+x,1/2-y,1/2-z
+1/2-x,1/2-z,1/2+y
+1/2-z,1/2-y,1/2+x
+1/2-x,1/2+y,1/2-z
+1/2+z,1/2-y,1/2-x
+1/2+z,1/2+x,1/2+y
+1/2+y,1/2+z,1/2+x
+1/2-y,1/2-z,1/2+x
+1/2+z,1/2-x,1/2-y
+1/2-y,1/2+z,1/2-x
+1/2-z,1/2-x,1/2+y
+1/2-z,1/2+x,1/2-y
+1/2+y,1/2-z,1/2-x
+1/2-y,1/2-x,1/2+z
+1/2+y,1/2+x,1/2+z
+1/2+x,1/2-z,1/2-y
+1/2+x,1/2+z,1/2+y
+1/2-z,1/2+y,1/2-x
+1/2+z,1/2+y,1/2+x
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O2      0.1429    0.1429    0.4509
+O       O3      0.0454    0.2500    0.4070
+O       O4      0.0000    0.1495    0.5000
+Si       Si1      0.0740    0.1962    0.4746
+#
+# Coordination Sequence:
+#
+# PKWN-RWY Si02
+#       1
+#    48
+#     4   6  12  17  28  38  52  64  84 104 124 143
+#
+# _framework density 8.56575483763
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    6.000    0.000    0.000    0.000    0.000    1.000 
+#    0.000    0.000    0.000    2.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12314.166900.
+# Energy per Si from BKS FF is -5471.644800
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/RWY.cif

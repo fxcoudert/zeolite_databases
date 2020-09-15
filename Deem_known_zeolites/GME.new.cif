@@ -1,0 +1,75 @@
+data_PKWN-GME
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-GME
+Probable space group: P 63/M M C
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 24
+_cell_length_a                  13.6720
+_cell_length_b                  13.6720
+_cell_length_c                   9.8500
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 1594.523637
+_symmetry_space_group_name_H-M "P 63/M M C"
+_space_group_IT_number 194
+_symmetry_cell_setting hexagonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x-y,x,1/2+z
+-y,x-y,z
+-x,-y,1/2+z
+-x+y,-x,z
+y,-x+y,1/2+z
+x-y,-y,-z
+-x,-x+y,-z
+y,x,-z
+-y,-x,1/2-z
+-x+y,y,1/2-z
+x,x-y,1/2-z
+-x,-y,-z
+-x+y,-x,1/2-z
+y,-x+y,-z
+x,y,1/2-z
+x-y,x,-z
+-y,x-y,1/2-z
+-x+y,y,z
+x,x-y,z
+-y,-x,z
+y,x,1/2+z
+x-y,-y,1/2+z
+-x,-x+y,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.5688    0.1375    0.0656
+O       O2      0.3565    0.0000    0.0000
+O       O3      0.4094    0.0752    0.2500
+O       O4      0.4259    0.2129    0.0536
+Si       Si1      0.4403    0.1064    0.0924
+#
+# Coordination Sequence:
+#
+# PKWN-GME Si02
+#       1
+#    24
+#     4   9  17  29  45  65  89 116 144 175 213 256
+#
+# _framework density 15.0515172301
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    3.000    0.000    1.000    0.000    6.000 
+#    0.000    0.000    0.000    7.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12401.494500.
+# Energy per Si from BKS FF is -5569.259800
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/GME.cif

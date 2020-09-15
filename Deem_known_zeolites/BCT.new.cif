@@ -1,0 +1,81 @@
+data_PKWN-BCT
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-BCT
+Probable space group: I 4/M M M
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 8
+_cell_length_a                   8.9520
+_cell_length_b                   8.9520
+_cell_length_c                   5.2550
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma               90.0000
+_cell_volume 421.126788
+_symmetry_space_group_name_H-M "I 4/M M M"
+_space_group_IT_number 139
+_symmetry_cell_setting tetragonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-y,x,z
+-x,-y,z
+y,-x,z
+x,-y,-z
+-x,y,-z
+y,x,-z
+-y,-x,-z
+-x,-y,-z
+y,-x,-z
+x,y,-z
+-y,x,-z
+-x,y,z
+x,-y,z
+-y,-x,z
+y,x,z
+1/2+x,1/2+y,1/2+z
+1/2-y,1/2+x,1/2+z
+1/2-x,1/2-y,1/2+z
+1/2+y,1/2-x,1/2+z
+1/2+x,1/2-y,1/2-z
+1/2-x,1/2+y,1/2-z
+1/2+y,1/2+x,1/2-z
+1/2-y,1/2-x,1/2-z
+1/2-x,1/2-y,1/2-z
+1/2+y,1/2-x,1/2-z
+1/2+x,1/2+y,1/2-z
+1/2-y,1/2+x,1/2-z
+1/2-x,1/2+y,1/2+z
+1/2+x,1/2-y,1/2+z
+1/2-y,1/2-x,1/2+z
+1/2+y,1/2+x,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.2500    0.2500    0.2500
+O       O2      0.0000    0.2079    0.0000
+Si       Si1      0.1769    0.1769    0.0000
+#
+# Coordination Sequence:
+#
+# PKWN-BCT Si02
+#       1
+#     8
+#     4  11  24  41  62  90 122 157 200 247 296 354
+#
+# _framework density 18.9966543024
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    1.000    0.000    6.000    0.000   20.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12406.333900.
+# Energy per Si from BKS FF is -5598.380300
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/BCT.cif

@@ -1,0 +1,70 @@
+data_PKWN-BPH
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-BPH
+Probable space group: P -6 2 M
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 28
+_cell_length_a                  13.0570
+_cell_length_b                  13.0570
+_cell_length_c                  12.9690
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 1914.802255
+_symmetry_space_group_name_H-M "P -6 2 M"
+_space_group_IT_number 189
+_symmetry_cell_setting hexagonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x+y,-x,-z
+-y,x-y,z
+x,y,-z
+-x+y,-x,z
+-y,x-y,-z
+x-y,-y,-z
+-x,-x+y,-z
+y,x,-z
+y,x,z
+x-y,-y,z
+-x,-x+y,z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.4180    0.2216    0.3073
+O       O2      0.4016    0.4016    0.2364
+O       O3      0.5664    0.3605    0.1655
+O       O4      0.5805    0.4387    0.3548
+O       O5      0.6686    0.6686    0.3647
+O       O6      0.5620    0.7335    0.5000
+O       O7      0.3333    0.6667    0.0000
+Si       Si1      0.4916    0.3557    0.2659
+Si       Si2      0.5629    0.6967    0.3817
+Si       Si3      0.3333    0.6667    0.1239
+#
+# Coordination Sequence:
+#
+# PKWN-BPH Si02
+#       3
+#    12  12   4
+#     4   9  17  28  42  60  84 113 140 169 211 254
+#     4   9  16  25  39  61  86 111 141 173 202 240
+#     4   9  18  30  43  62  85 105 135 180 217 251
+#
+# _framework density 14.6229199034
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    3.000    0.000    2.143    0.000    3.429 
+#    0.000    0.000    0.000    0.857    0.000    0.000 
+#    0.000    0.000    0.000    1.286    0.000    1.714 
+#
+# Energy per Si from SLC FF is -12398.841900.
+# Energy per Si from BKS FF is -5568.900900
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/BPH.cif

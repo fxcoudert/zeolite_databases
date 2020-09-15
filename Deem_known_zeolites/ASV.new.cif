@@ -1,0 +1,68 @@
+data_PKWN-ASV
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-ASV
+Probable space group: P 4/M C C
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 20
+_cell_length_a                   8.6740
+_cell_length_b                   8.6740
+_cell_length_c                  13.9190
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma               90.0000
+_cell_volume 1047.241564
+_symmetry_space_group_name_H-M "P 4/M C C"
+_space_group_IT_number 124
+_symmetry_cell_setting tetragonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-y,x,z
+-x,-y,z
+y,-x,z
+x,-y,1/2-z
+-x,y,1/2-z
+y,x,1/2-z
+-y,-x,1/2-z
+-x,-y,-z
+y,-x,-z
+x,y,-z
+-y,x,-z
+-x,y,1/2+z
+x,-y,1/2+z
+-y,-x,1/2+z
+y,x,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.1089    0.6074    0.3178
+O       O2      0.1985    0.4155    0.0000
+O       O3      0.3938    0.3110    0.1321
+Si       Si1      0.2534    0.4308    0.1114
+Si       Si2      0.0000    0.5000    0.2500
+#
+# Coordination Sequence:
+#
+# PKWN-ASV Si02
+#       2
+#    16   4
+#     4   9  19  35  52  72 100 131 163 201 244 290
+#     4  12  18  26  52  84 100 118 162 210 248 284
+#
+# _framework density 19.097790514
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    2.400    0.000    6.000    0.000    3.200 
+#    0.000    0.000    0.000   19.200    0.000   44.800 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12396.297600.
+# Energy per Si from BKS FF is -5581.868900
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/ASV.cif

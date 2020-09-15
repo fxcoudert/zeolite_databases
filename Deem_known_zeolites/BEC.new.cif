@@ -1,0 +1,74 @@
+data_PKWN-BEC
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-BEC
+Probable space group: P 42/M M C
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 32
+_cell_length_a                  12.7700
+_cell_length_b                  12.7700
+_cell_length_c                  12.9770
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma               90.0000
+_cell_volume 2116.197023
+_symmetry_space_group_name_H-M "P 42/M M C"
+_space_group_IT_number 131
+_symmetry_cell_setting tetragonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x,-y,z
+-y,x,1/2+z
+y,-x,1/2+z
+-x,y,-z
+x,-y,-z
+y,x,1/2-z
+-y,-x,1/2-z
+-x,-y,-z
+x,y,-z
+y,-x,1/2-z
+-y,x,1/2-z
+x,-y,z
+-x,y,z
+-y,-x,1/2+z
+y,x,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.0000    0.6199    0.3564
+O       O2      0.8593    0.6567    0.5000
+O       O3      0.8339    0.5000    0.3710
+O       O4      0.8163    0.6942    0.6954
+O       O5      0.0000    0.8804    0.0000
+O       O6      0.0000    0.0000    0.1645
+O       O7      0.8973    0.1797    0.1644
+Si       Si1      0.8770    0.6180    0.6168
+Si       Si2      0.8070    0.8070    0.2500
+Si       Si3      0.0000    0.1192    0.1238
+#
+# Coordination Sequence:
+#
+# PKWN-BEC Si02
+#       3
+#    16   8   8
+#     4   9  18  32  50  71  96 129 167 199 231 283
+#     4  12  17  30  48  71  98 126 156 198 240 289
+#     4  11  20  28  41  70 103 127 150 188 242 298
+#
+# _framework density 15.1214653681
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    1.750    5.000    3.000    0.000    4.000 
+#    0.000    0.000    0.000    8.250    0.000    3.500 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12402.033300.
+# Energy per Si from BKS FF is -5578.352200
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/BEC.cif

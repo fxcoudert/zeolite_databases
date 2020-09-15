@@ -1,0 +1,68 @@
+data_PKWN-EPI
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-EPI
+Probable space group: C 2/M
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 24
+_cell_length_a                   9.1270
+_cell_length_b                  17.4800
+_cell_length_c                  10.3770
+_cell_angle_alpha               90.0000
+_cell_angle_beta               124.9390
+_cell_angle_gamma               90.0000
+_cell_volume 1357.154230
+_symmetry_space_group_name_H-M "C 2/M"
+_space_group_IT_number 12
+_symmetry_cell_setting monoclinic
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x,y,-z
+-x,-y,-z
+x,-y,z
+1/2+x,1/2+y,z
+1/2-x,1/2+y,-z
+1/2-x,1/2-y,-z
+1/2+x,1/2-y,z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.8184    0.1141    0.1264
+O       O2      0.0390    0.0000    0.1921
+O       O3      0.1647    0.1376    0.3007
+O       O4      0.0000    0.1091    0.0000
+O       O5      0.2784    0.2692    0.2641
+O       O6      0.2500    0.2500    0.5000
+O       O7      0.5000    0.1777    0.5000
+O       O8      0.5000    0.1749    0.0000
+O       O9      0.7500    0.2500    0.0000
+Si       Si1      0.0049    0.0900    0.1541
+Si       Si2      0.2976    0.2087    0.3899
+Si       Si3      0.7107    0.1925    0.0977
+#
+# Coordination Sequence:
+#
+# PKWN-EPI Si02
+#       3
+#     8   8   8
+#     4  11  24  42  63  93 127 160 206 262 308 356
+#     4  12  22  37  64  94 119 161 204 252 304 366
+#     4  12  20  39  66  90 118 164 214 245 292 373
+#
+# _framework density 17.6840623313
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    0.333   10.000    0.000    0.000    1.333 
+#    0.000    3.333    0.000    0.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12402.725900.
+# Energy per Si from BKS FF is -5589.564000
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/EPI.cif

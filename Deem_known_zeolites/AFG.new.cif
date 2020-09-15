@@ -1,0 +1,82 @@
+data_PKWN-AFG
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-AFG
+Probable space group: P 63/M M C
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 48
+_cell_length_a                  12.5480
+_cell_length_b                  12.5480
+_cell_length_c                  20.7890
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 2834.740124
+_symmetry_space_group_name_H-M "P 63/M M C"
+_space_group_IT_number 194
+_symmetry_cell_setting hexagonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x-y,x,1/2+z
+-y,x-y,z
+-x,-y,1/2+z
+-x+y,-x,z
+y,-x+y,1/2+z
+x-y,-y,-z
+-x,-x+y,-z
+y,x,-z
+-y,-x,1/2-z
+-x+y,y,1/2-z
+x,x-y,1/2-z
+-x,-y,-z
+-x+y,-x,1/2-z
+y,-x+y,-z
+x,y,1/2-z
+x-y,x,-z
+-y,x-y,1/2-z
+-x+y,y,z
+x,x-y,z
+-y,-x,z
+y,x,1/2+z
+x-y,-y,1/2+z
+-x,-x+y,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.6608    0.6953    0.0606
+O       O2      0.6680    0.6912    0.1868
+O       O3      0.5303    0.7652    0.1288
+O       O4      0.4685    0.5314    0.1253
+O       O5      0.1013    0.8987    0.2500
+O       O6      0.2684    0.1342    0.2500
+O       O7      0.1159    0.8842   -0.0181
+Si       Si1      0.5817    0.6706    0.1254
+Si       Si2      0.2466    0.9965    0.2500
+Si       Si3      0.2478    0.0000    0.0000
+#
+# Coordination Sequence:
+#
+# PKWN-AFG Si02
+#       3
+#    24  12  12
+#     4  10  20  34  53  76 103 135 170 208 250 299
+#     4  10  20  34  54  78 104 134 168 210 256 302
+#     4  10  20  34  54  78 104 134 168 210 256 302
+#
+# _framework density 16.9327691051
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    2.000    0.000    4.000    0.000    0.000 
+#    0.000    7.500    0.000   17.000    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12404.143100.
+# Energy per Si from BKS FF is -5584.069200
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/AFG.cif

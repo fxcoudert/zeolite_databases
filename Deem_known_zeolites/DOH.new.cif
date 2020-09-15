@@ -1,0 +1,84 @@
+data_PKWN-DOH
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-DOH
+Probable space group: P 6/M M M
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 34
+_cell_length_a                  14.1900
+_cell_length_b                  14.1900
+_cell_length_c                  11.4990
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 2005.189845
+_symmetry_space_group_name_H-M "P 6/M M M"
+_space_group_IT_number 191
+_symmetry_cell_setting hexagonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x-y,x,z
+-y,x-y,z
+-x,-y,z
+-x+y,-x,z
+y,-x+y,z
+x-y,-y,-z
+-x,-x+y,-z
+y,x,-z
+-y,-x,-z
+-x+y,y,-z
+x,x-y,-z
+-x,-y,-z
+-x+y,-x,-z
+y,-x+y,-z
+x,y,-z
+x-y,x,-z
+-y,x-y,-z
+-x+y,y,z
+x,x-y,z
+-y,-x,z
+y,x,z
+x-y,-y,z
+-x,-x+y,z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.3952    0.2893    0.3035
+O       O2      0.3372    0.1686    0.1140
+O       O3      0.5427    0.2714    0.1849
+O       O4      0.3659    0.0000    0.5000
+O       O5      0.5000    0.0000    0.3414
+O       O6      0.1854    0.0000    0.0000
+O       O7      0.3333    0.6667    0.0000
+Si       Si1      0.4173    0.2087    0.2246
+Si       Si2      0.3881    0.0000    0.3629
+Si       Si3      0.2609    0.1304    0.0000
+Si       Si4      0.3333    0.6667    0.1398
+#
+# Coordination Sequence:
+#
+# PKWN-DOH Si02
+#       4
+#    12  12   6   4
+#     4  12  23  41  64  92 128 167 207 259 318 378
+#     4  11  24  41  63  91 128 171 214 259 313 381
+#     4  12  25  42  68  90 122 167 210 268 318 374
+#     4  12  24  36  61 101 133 156 204 256 314 391
+#
+# _framework density 16.9560004904
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    0.353    8.824    1.235    0.000    0.000 
+#    0.000    5.294    0.000    0.000    0.000    4.941 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12404.461800.
+# Energy per Si from BKS FF is -5592.225900
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/DOH.cif

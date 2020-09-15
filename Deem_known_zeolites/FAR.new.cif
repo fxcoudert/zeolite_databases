@@ -1,0 +1,89 @@
+data_PKWN-FAR
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-FAR
+Probable space group: P 63/M M C
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 84
+_cell_length_a                  12.6010
+_cell_length_b                  12.6010
+_cell_length_c                  35.7430
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 4915.092053
+_symmetry_space_group_name_H-M "P 63/M M C"
+_space_group_IT_number 194
+_symmetry_cell_setting hexagonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x-y,x,1/2+z
+-y,x-y,z
+-x,-y,1/2+z
+-x+y,-x,z
+y,-x+y,1/2+z
+x-y,-y,-z
+-x,-x+y,-z
+y,x,-z
+-y,-x,1/2-z
+-x+y,y,1/2-z
+x,x-y,1/2-z
+-x,-y,-z
+-x+y,-x,1/2-z
+y,-x+y,-z
+x,y,1/2-z
+x-y,x,-z
+-y,x-y,1/2-z
+-x+y,y,z
+x,x-y,z
+-y,-x,z
+y,x,1/2+z
+x-y,-y,1/2+z
+-x,-x+y,1/2+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.5441    0.0883    0.4542
+O       O2      0.7103    0.0377    0.4297
+O       O3      0.7747    0.2253    0.4744
+O       O4      0.6450    0.0000    0.5000
+O       O5      0.2358    0.1179    0.3783
+O       O6      0.1111    0.8889    0.4008
+O       O7      0.3110    0.9640    0.3602
+O       O8      0.5296    0.7648    0.3198
+O       O9      0.6710    0.9760    0.2868
+O      O10      0.4685    0.9369    0.3192
+O      O11      0.0988    0.9012    0.2500
+O      O12      0.2701    0.1350    0.2500
+Si       Si1      0.6681    0.0880    0.4647
+Si       Si2      0.2460    0.0017    0.3922
+Si       Si3      0.5803    0.9101    0.3216
+Si       Si4      0.2440    0.9965    0.2500
+#
+# Coordination Sequence:
+#
+# PKWN-FAR Si02
+#       4
+#    24  24  24  12
+#     4  10  20  34  52  74 101 133 169 208 251 299
+#     4  10  20  34  53  76 102 132 166 206 251 299
+#     4  10  20  34  53  76 102 132 166 205 248 294
+#     4  10  20  34  54  78 104 134 168 208 252 298
+#
+# _framework density 17.0902190846
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    2.000    0.000    4.000    0.000    0.000 
+#    0.000    4.286    0.000   23.429    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12404.277600.
+# Energy per Si from BKS FF is -5583.745400
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/FAR.cif

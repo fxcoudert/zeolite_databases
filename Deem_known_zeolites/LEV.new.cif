@@ -1,0 +1,90 @@
+data_PKWN-LEV
+_publ_section_title
+;
+Structure prediction by ZEFSAII (Michael W. Deem and David J. Earl) SiO2 
+ PKWN-LEV
+Probable space group: R -3 M
+;
+_chemical_formula_sum "Si O2"
+_cell_formula_units_Z 54
+_cell_length_a                  13.1680
+_cell_length_b                  13.1680
+_cell_length_c                  22.5780
+_cell_angle_alpha               90.0000
+_cell_angle_beta                90.0000
+_cell_angle_gamma              120.0000
+_cell_volume 3390.437447
+_symmetry_space_group_name_H-M "R -3 M"
+_space_group_IT_number 166
+_symmetry_cell_setting trigonal
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-y,x-y,z
+-x+y,-x,z
+x-y,-y,-z
+-x,-x+y,-z
+y,x,-z
+-x,-y,-z
+y,-x+y,-z
+x-y,x,-z
+-x+y,y,z
+x,x-y,z
+-y,-x,z
+2/3+x,1/3+y,1/3+z
+2/3-y,1/3+x-y,1/3+z
+2/3-x+y,1/3-x,1/3+z
+2/3+x-y,1/3-y,1/3-z
+2/3-x,1/3-x+y,1/3-z
+2/3+y,1/3+x,1/3-z
+2/3-x,1/3-y,1/3-z
+2/3+y,1/3-x+y,1/3-z
+2/3+x-y,1/3+x,1/3-z
+2/3-x+y,1/3+y,1/3+z
+2/3+x,1/3+x-y,1/3+z
+2/3-y,1/3-x,1/3+z
+1/3+x,2/3+y,2/3+z
+1/3-y,2/3+x-y,2/3+z
+1/3-x+y,2/3-x,2/3+z
+1/3+x-y,2/3-y,2/3-z
+1/3-x,2/3-x+y,2/3-z
+1/3+y,2/3+x,2/3-z
+1/3-x,2/3-y,2/3-z
+1/3+y,2/3-x+y,2/3-z
+1/3+x-y,2/3+x,2/3-z
+1/3-x+y,2/3+y,2/3+z
+1/3+x,2/3+x-y,2/3+z
+1/3-y,2/3-x,2/3+z
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O       O1      0.0955    0.1910    0.0771
+O       O2      0.0347    0.3448    0.1097
+O       O3      0.8724    0.1276    0.0862
+O       O4      0.0000    0.2678    0.0000
+O       O5      0.1127    0.8873    0.4881
+Si       Si1      0.0005    0.2327    0.0683
+Si       Si2      0.2397    0.0000    0.5000
+#
+# Coordination Sequence:
+#
+# PKWN-LEV Si02
+#       2
+#    36  18
+#     4   9  17  30  49  71  92 114 143 183 229 271
+#     4  10  20  32  46  64  90 124 156 184 214 256
+#
+# _framework density 15.9271482937
+#
+# number of rings (size 3 to 8) (size 9 to 14) (size 15 to 20)
+#    0.000    2.667    0.000    2.000    0.000    4.000 
+#    0.000    0.000    0.000    1.333    0.000    0.000 
+#    0.000    0.000    0.000    0.000    0.000    0.000 
+#
+# Energy per Si from SLC FF is -12402.004500.
+# Energy per Si from BKS FF is -5573.872800
+# 
+# From -- /home/earl/hixson/work/zeo-known/contents/LEV.cif
