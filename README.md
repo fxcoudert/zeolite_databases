@@ -1,6 +1,8 @@
 # Databases of zeolitic structures
 
-The goal of this repository is to serve as stable hosting (mirror) for some existing databases of zeolitic structures, created by colleagues, whose websites have recently become unreachable. I am
+The goal of this repository is to serve as stable hosting (mirror) for some existing databases of zeolitic structures, created by colleagues, whose websites have recently become unreachable. I am trying to host them here, in a stable version, to allow others to use them and reproduce previous work on the topic.
+
+I do not own any rights to these structures, but as their authors originally shared them publicly, I believe it is the right thing to do. They were, in most cases, published without explicit licences attached to them. 
 
 ## Michael Deem's databases
 
